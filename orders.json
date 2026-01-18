@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1768726825881,
+    "item": "Burger",
+    "itemId": 2,
+    "quantity": 1,
+    "price": 600,
+    "totalPrice": 600,
+    "customerName": "Dhanuka",
+    "customerPhone": "0776522565",
+    "deliveryAddress": "bufuog ugy",
+    "paymentMethod": "Cash on Delivery",
+    "status": "pending",
+    "createdAt": "2026-01-18T09:00:25.881Z",
+    "updatedAt": "2026-01-18T09:00:25.881Z"
+  },
+  {
+    "id": 1768755377907,
+    "item": "Pizza",
+    "itemId": 1,
+    "quantity": 1,
+    "price": 1200,
+    "totalPrice": 1200,
+    "customerName": "WIJESOORIYA RAJAPAKSHA",
+    "customerPhone": "0776291695",
+    "deliveryAddress": "UNIT 3/B/31,22 MILE POST,BADULUOYA,BADULLA",
+    "paymentMethod": "Credit Card",
+    "status": "pending",
+    "createdAt": "2026-01-18T16:56:17.907Z",
+    "updatedAt": "2026-01-18T16:56:17.907Z"
+  }
+]
