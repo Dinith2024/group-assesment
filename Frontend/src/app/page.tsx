@@ -47,7 +47,7 @@ export default function Home() {
              <Image src="/pizza.png" alt="Pizza" width={450} height={450} className="drop-shadow-2xl animate-[float_7s_ease-in-out_infinite_1s]" />
           </motion.div>
           
-          {/* Other Decorative Icons */}
+          {/* Other  Icons */}
           <motion.div initial={{ x: 100, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ delay: 0.5, duration: 1 }} className="absolute top-1 right -100 md:right-10 w-24 md:w-36 z-0">
              <Image src="/chicken.png" alt="Chicken" width={200} height={200} className="drop-shadow-xl animate-[float_5s_ease-in-out_infinite_2s]" />
           </motion.div>
