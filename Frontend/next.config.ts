@@ -1,18 +1,17 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'images.unsplash.com', // Unsplash Images වලට අවසර දීම
+        hostname: 'images.unsplash.com', 
       },
       {
         protocol: 'https',
-        hostname: 'randomuser.me', // Random User Images වලට අවසර දීම
+        hostname: 'randomuser.me',
       },
       {
         protocol: 'https',
-        hostname: 'cdn.sanity.io', // Sanity Images (අනාගතය සඳහා)
+        hostname: 'cdn.sanity.io', 
       }
     ],
   },
