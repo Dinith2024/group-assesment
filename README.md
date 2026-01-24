@@ -1,6 +1,12 @@
 <div align="center">
 
   <h1>🍔 VisionFood</h1>
+  <h2> Group Information</h2>
+  <p>
+  Student 1 : Dinith Sasanga - ITBIN-2313-0101 - Role-DevOps/Release Manager
+  Student 2 : Dhanuka Neranjan - ITBIN-2313-0130 - Role-Backend Developer
+  Student 3 : Savindu Wijesinghe - ITBIN-2313-0129 - Role-Frontend Developer
+  </p>
   
   <h3>Experience the Future of Food Delivery</h3>
   
@@ -18,8 +24,8 @@
 
   <br />
 
-  <img src="Project Banner.png" alt="Project Banner" width="100%" />
-<h2>Visit The Link : https://vision-food-drab.vercel.app/</h2>
+  <img src="https://via.placeholder.com/1200x500.png?text=VisionFood+App+Banner" alt="Project Banner" width="100%" />
+
 </div>
 
 ---
